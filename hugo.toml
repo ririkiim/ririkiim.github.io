@@ -6,10 +6,16 @@ theme = "PaperMod"
 hasCJKLanguage = true
 
 [params]
+    defaultTheme = "light"
     [params.homeInfoParams]
         Title = "Yaerim Kim"
-        Content = "studying **Data Engineering**"
+        Content = """
 
+Welcome to my tech blog ₍^˶⦁༝⦁˶^₎◞ ̑̑
+
+studying **Data Engineering**
+
+"""
     [[params.socialIcons]]
         name = "github"
         url = "https://github.com/ririkiim"
