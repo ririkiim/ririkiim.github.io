@@ -1,18 +1,18 @@
 baseURL = 'https://ririkiim.github.io/'
-locale = 'en-us'
+languageCode = 'en-us'
 title = 'Yaerim Kim'
 theme = "PaperMod"
 
 hasCJKLanguage = true
 
-
 [params]
-	[params.homeInfoParams]
-		Title = "studying **Data Engineering**"
-		
-	[[params.socialIcons]]
-		name = "github"
-		url = "https://github.com/ririkiim"
-	[[params.socialIcons]]
-		name = "notion"
-		url = "https://www.notion.so/356ce3c571d88005b058d9e74f055a5b"
+    [params.homeInfoParams]
+        Title = "Yaerim Kim"
+        Content = "studying **Data Engineering**"
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/ririkiim"
+    [[params.socialIcons]]
+        name = "notion"
+        url = "https://www.notion.so/356ce3c571d88005b058d9e74f055a5b"
